@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說寶藏神大明曼拏羅儀軌經
+#+DATE: 2015-08-30 20:33:59.563448
+#+PROPERTY: JUAN 0
