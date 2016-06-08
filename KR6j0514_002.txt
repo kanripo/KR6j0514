@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:59.361498
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 佛說寶藏神大明曼拏羅儀軌經
 #+PROPERTY: CBETA_ID T21n1283
 #+PROPERTY: ID KR6j0514
