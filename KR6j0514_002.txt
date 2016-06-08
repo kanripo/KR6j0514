@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:59.361498
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 佛說寶藏神大明曼拏羅儀軌經
 #+PROPERTY: CBETA_ID T21n1283
 #+PROPERTY: ID KR6j0514
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1283
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0514_T_000-0343b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0514_T_002-0346a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說寶藏神大明曼拏羅儀軌經¶
+佛說寶藏神大明曼拏羅儀軌經¶
 卷下¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
